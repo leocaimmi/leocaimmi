@@ -1,25 +1,15 @@
 <h1 align="center">Hola soy Leonardo Caimmi👋 </h1> 
 <a href="https://www.linkedin.com/in/leonardo-caimmi-400549269/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<!--
-**leocaimmi/leocaimmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-<h2>
-<p>- 🔭 Actualmente me encuentro en el 3er Cuatrimestre de la Tecnicatura en Programacion de la UTN(Universidad Tecnologica Nacional).</p>
-<p>- 🌱 En este cuatrimestre estoy aprendiendo Java y anteriormente aprendimos C y sus bases.</p>
-</h2>
- <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>
+<br>
+<h2>Sobre mi</h2>
+<p align="left">
+<p>- 🔭 Actualmente me encuentro en el 3er Cuatrimestre de la Tecnicatura en Programacion de la UTN(Universidad Tecnologica Nacional). </p>
+<p>-🌱 En este cuatrimestre estoy aprendiendo Java y anteriormente aprendimos C y sus bases.</p>
  
-Lenguajes y herramientas
+<br>
+ 
+## Lenguajes y herramientas
 
 <p>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -38,4 +28,4 @@ Lenguajes y herramientas
 
   </td>
 </tr>
-</h3>
+
