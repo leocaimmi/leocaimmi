@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Leonardo Caimmi👋 </h1> 
-<a href="https://www.linkedin.com/in/leonardo-caimmi-400549269/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/leonardo-caimmi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <br>
 <h2>Sobre mi</h2>
