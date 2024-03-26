@@ -19,6 +19,8 @@
      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    
 </p>
+
+<div style="display:flex">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leocaimmi&theme=dark&hide_border=false" /> 
 </td>
 
@@ -28,4 +30,4 @@
 
   </td>
 </tr>
-
+</div>
