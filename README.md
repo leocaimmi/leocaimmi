@@ -15,8 +15,12 @@
   <li>Aprendimos programacion estructurada</li>
   <li>Arreglos estaticos y dinamicos </li> 
   <li>Punteros </li>
-  <li>Estructuras dinamicas y compuestas |listas simples y dobles|arboles binarios|filas </li>
+  <li>Estructuras dinamicas y compuestas</li>
+   <li>|Listas simples y dobles | Lista de listas | Arreglo de Listas | Arbol de listas |</li>
+  <li>|Arboles binarios | Lista de arboles | Arreglo de arboles</li>
+   <li>|Filas | Arreglo de filas | Fila de arreglos | Fila de listas |</li>
   </ul>
+  <p>Entre otras estructuras dinamicas...</p>
   <p> Practicamos y seguimos mejorando las habilidades blandas como el trabajo en equipo,resolucion de problemas</p>
  
  <p>Por mi cuenta estuve aprendiendo lo que es un poco de HTML,CSS y GIT </p>
