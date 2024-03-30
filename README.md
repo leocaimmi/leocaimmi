@@ -6,7 +6,7 @@
 <p align="left">
 <p>- 🔭 Actualmente me encuentro en el 3er Cuatrimestre de la Tecnicatura en Programacion de la UTN(Universidad Tecnologica Nacional). </p>
 <p>En mi tiempo libre me gusta entrenar, ver cosas relacionadas al mundo IT y jugar algun que otro juego...</p>
-<p>-🌱 En este cuatrimestre estoy aprendiendo Java</p>
+<p>-🌱 En este cuatrimestre estoy aprendiendo Java. Pero de forma autodidacta tambien me encuentro aprendiendo base de datos (MySQL)</p>
 <ul>
 <li>Estamos aprendiendo el paradigma de la POO (programacion oriendad a objetos)</li>
  </ul>
