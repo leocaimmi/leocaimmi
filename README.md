@@ -8,7 +8,7 @@
 <p>En mi tiempo libre me gusta entrenar, ver cosas relacionadas al mundo IT y jugar algun que otro juego...</p>
 <p>-🌱 En este cuatrimestre estoy aprendiendo Java</p>
 <ul>
-<li>Estamos aprendiendo el paradigma de la POO (programacion oriendad a objetos)</li>
+<li>Estamos aprendiendo el paradigma de la POO (programacion orientada a objetos)</li>
  </ul>
 <p>En el cuatrimestre 1 y 2 aprendimos C</p>
  <ul>
