@@ -8,7 +8,13 @@
 <p>En mi tiempo libre me gusta entrenar, ver cosas relacionadas al mundo IT y jugar algun que otro juego...</p>
 <p>-🌱 En este cuatrimestre estoy aprendiendo Java</p>
 <ul>
-<li>Estamos aprendiendo el paradigma de la POO (programacion orientada a objetos)</li>
+<li>En este 3er cuatrimestre vemos el paradigma de la POO (programacion orientada a objetos)</li>
+ <li>Diagrama de clases(UML), fundamentos de la POO(herencia,polimorfismo,encapsulamiento,abstraccion y modularizacion)</li>
+ <li>Objetos|Abstraccion| Clases abstractas</li>
+ <li>Interfaces</li>
+ <li>Colecciones</li>
+ <li>Genericidad</li>
+ <li>Excepciones</li>
  </ul>
 <p>En el cuatrimestre 1 y 2 aprendimos C</p>
  <ul>
@@ -16,9 +22,9 @@
   <li>Arreglos estaticos y dinamicos </li> 
   <li>Punteros </li>
   <li>Estructuras dinamicas y compuestas</li>
-   <li>|Listas simples y dobles | Lista de listas | Arreglo de Listas | Arbol de listas |</li>
+  <li>|Listas simples y dobles | Lista de listas | Arreglo de Listas | Arbol de listas |</li>
   <li>|Arboles binarios | Lista de arboles | Arreglo de arboles</li>
-   <li>|Filas | Arreglo de filas | Fila de arreglos | Fila de listas |</li>
+  <li>|Filas | Arreglo de filas | Fila de arreglos | Fila de listas |</li>
   </ul>
   <p>Entre otras estructuras dinamicas...</p>
   <p> Practicamos y seguimos mejorando las habilidades blandas como el trabajo en equipo,resolucion de problemas</p>
