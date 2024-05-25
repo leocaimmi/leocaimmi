@@ -11,21 +11,16 @@
 <li>En este 3er cuatrimestre vemos el paradigma de la POO (programacion orientada a objetos)</li>
  <li>Diagrama de clases(UML), fundamentos de la POO(herencia,polimorfismo,encapsulamiento,abstraccion y modularizacion)</li>
  <li>Objetos|Abstraccion| Clases abstractas</li>
- <li>Interfaces</li>
- <li>Colecciones</li>
- <li>Genericidad</li>
- <li>Excepciones</li>
- <li>Archivos</li>
- <li>JSON</li>
+ <li>Interfaces | Colecciones | Genericidad| Excepciones | Archivos | JSON |</li>
  </ul>
 <p>En el cuatrimestre 1 y 2 aprendimos C</p>
  <ul>
-  <li>Aprendimos programacion estructurada</li>
-  <li>Arreglos estaticos y dinamicos|Punteros| </li> 
-  <li>Estructuras dinamicas y compuestas|Listas simples y dobles | Lista de listas | Arreglo de Listas | Arbol de listas|Arboles binarios | Lista de arboles | Arreglo de arboles | Filas |.ETC </li>
- <h1> Extracurriculares</h1>
- <p>Por mi cuenta estuve aprendiendo lo que es un poco de HTML,CSS y GIT </p>
+  <li>programacion estructurada</li>
+  <li>Arreglos estaticos y dinamicos | Punteros |</li> 
+  <li>| Estructuras dinamicas y compuestas | Listas simples y dobles | Lista de listas | Arreglo de Listas | Arbol de listas|Arboles binarios | Lista de arboles | Arreglo de arboles | Filas |.ETC </li>
+ <h3>Extracurriculares</h3>
   <ul>
+  <li>Por mi cuenta estuve aprendiendo lo que es un poco de HTML,CSS y GIT </li>
   <li>|consumo de APIs | Microservicios | maven | GUI(Swing)| Metodologias agiles |Habilidades blandas |</li>
     </ul>
 <br>
