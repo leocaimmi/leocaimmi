@@ -15,6 +15,8 @@
  <li>Colecciones</li>
  <li>Genericidad</li>
  <li>Excepciones</li>
+ <li>Archivos</li>
+ <li>JSON</li>
  </ul>
 <p>En el cuatrimestre 1 y 2 aprendimos C</p>
  <ul>
@@ -28,8 +30,9 @@
   </ul>
   <p>Entre otras estructuras dinamicas...</p>
   <p> Practicamos y seguimos mejorando las habilidades blandas como el trabajo en equipo,resolucion de problemas</p>
- 
+ <h1> Extracurriculares</h1>
  <p>Por mi cuenta estuve aprendiendo lo que es un poco de HTML,CSS y GIT </p>
+  <p>APIs, Microservicios, maven, GUI(Swing), Metodologias agiles </p>
 <br>
  
 ## Lenguajes y herramientas
