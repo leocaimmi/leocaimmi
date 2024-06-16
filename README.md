@@ -1,29 +1,29 @@
 <h1 align="center">Hola soy Leonardo Caimmi👋 </h1> 
 <a href="https://www.linkedin.com/in/leonardo-caimmi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
-<br>
-<h2>Sobre mi</h2>
-<p align="left">
-<p>- 🔭 Actualmente me encuentro en el 3er Cuatrimestre de la Tecnicatura en Programacion de la UTN(Universidad Tecnologica Nacional). </p>
-<p>En mi tiempo libre me gusta entrenar, ver cosas relacionadas al mundo IT y jugar algun que otro juego...</p>
-<p>-🌱 En este cuatrimestre estoy aprendiendo Java</p>
+<h1>Sobre mí</h1>
+
+<h2>📚 Educación</h2>
 <ul>
-<li>En este 3er cuatrimestre vemos el paradigma de la POO (programacion orientada a objetos)</li>
- <li>Diagrama de clases(UML), fundamentos de la POO(herencia,polimorfismo,encapsulamiento,abstraccion y modularizacion)</li>
- <li>Objetos|Abstraccion| Clases abstractas</li>
- <li>Interfaces | Colecciones | Genericidad| Excepciones | Archivos | JSON |</li>
- </ul>
-<p>En el cuatrimestre 1 y 2 aprendimos C</p>
- <ul>
-  <li>programacion estructurada</li>
-  <li>Arreglos estaticos y dinamicos | Punteros |</li> 
-  <li>| Estructuras dinamicas y compuestas | Listas simples y dobles | Lista de listas | Arreglo de Listas | Arbol de listas|Arboles binarios | Lista de arboles | Arreglo de arboles | Filas |.ETC </li>
- <h3>Extracurriculares</h3>
-  <ul>
-  <li>Por mi cuenta estuve aprendiendo lo que es un poco de HTML,CSS y GIT </li>
-  <li>|consumo de APIs | Microservicios | maven | GUI(Swing)| Metodologias agiles |Habilidades blandas |</li>
-    </ul>
-<br>
+  <li>🔭 <strong> Actualemte me encuentro cursando el 3er Cuatrimestre en Tecnicatura en Programación</strong> - UTN</li>
+  <li>🌱 <strong>Java</strong> (POO, UML, Herencia, Polimorfismo, Encapsulamiento, Abstracción, Modularización, Clases Abstractas, Interfaces, Colecciones, Genericidad, Excepciones, Archivos, JSON)</li>
+  <li>📖 <strong>1er y 2do Cuatrimestre en C</strong> (Programación Estructurada, Arreglos, Punteros, Estructuras Dinámicas, Listas, Árboles, Filas)</li>
+</ul>
+
+<h2>💻 Extracurriculares</h2>
+<ul>
+  <li><strong>HTML, CSS, GIT</strong></li>
+  <li><strong>Consumo de APIs, Microservicios, Maven, GUI (Swing)</strong></li>
+  <li><strong>Metodologías Ágiles, Habilidades Blandas</strong></li>
+</ul>
+
+<h2>🎮 Intereses</h2>
+<ul>
+  <li>Entrenamiento físico</li>
+  <li>Mundo IT</li>
+  <li>Videojuegos</li>
+</ul>
+
  
 ## Lenguajes y herramientas
 
