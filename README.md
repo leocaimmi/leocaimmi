@@ -13,18 +13,19 @@
 
 ## 📚Educación
 <ul>
-  <li>🔭 <strong> Actualemte me encuentro cursando el 3er Cuatrimestre en Tecnicatura en Programación</strong> - UTN</li>
-  <li>🌱 <strong>Java</strong> (POO, UML, Herencia, Polimorfismo, Encapsulamiento, Abstracción, Modularización, Clases Abstractas, Interfaces, Colecciones, Genericidad, Excepciones, Archivos, JSON)</li>
-  <li>📖 <strong>1er y 2do Cuatrimestre en C</strong> (Programación Estructurada, Arreglos, Punteros, Estructuras Dinámicas, Listas, Árboles, Filas)</li>
-  <li><strong>HTML, CSS, GIT</strong></li>
-  <li><strong>Consumo de APIs , Hibernate , Docker , MySQL , Microservicios, Maven, GUI(Swing)</strong></li>
-  <li><strong>Metodologías Ágiles(Jira,Trello...) , Habilidades Blandas</strong></li>
+  <li>🔭  Actualemte me encuentro cursando el 4to y ultimo Cuatrimestre en Tecnicatura en Programación- UTN</li>
+  <li>👨‍💻 JavaScript, TypeScript, Angular,HTML, CSS.
+  <li>🌱 Java (POO, UML, Herencia, Polimorfismo, Encapsulamiento, Abstracción, Modularización, Clases Abstractas, Interfaces, Colecciones, Genericidad, Excepciones, Archivos, JSON)</li>
+  <li>📖 C (Programación Estructurada, Arreglos, Punteros, Estructuras Dinámicas, Listas, Árboles, Filas)</li>
+  <li>HTML, CSS, GIT</strong></li>
+  <li>Consumo de APIs , Hibernate , Docker , MySQL , Microservicios, Maven, GUI(Swing)</li>
+  <li>Resolucion de problemas, Metodologías Ágiles(Jira,Trello...) , Habilidades Blandas</li>
 </ul>
 <!------------------------------------------------------------------------------------------------------>
 
 ## 🎮Intereses
 <ul>
-  <li>Entrenamiento físico</li>
+  <li>Entrenamiento físico y mental</li>
   <li>Mundo IT</li>
   <li>Videojuegos</li>
 </ul>
@@ -34,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,css,html,git,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,angular,c,java,html,css,git,mysql,postgresql,docker" />
   </a>
 </p>
 <!------------------------------------------------------------------------------------------------------>
