@@ -17,8 +17,7 @@
   <li>👨‍💻 JavaScript, TypeScript, Angular,HTML, CSS, MySQL.
   <li>🌱 Java (POO, UML, Herencia, Polimorfismo, Encapsulamiento, Abstracción, Modularización, Clases Abstractas, Interfaces, Colecciones, Genericidad, Excepciones, Archivos, JSON)</li>
   <li>📖 C (Programación Estructurada, Arreglos, Punteros, Estructuras Dinámicas, Listas, Árboles, Filas)</li>
-  <li>HTML, CSS, GIT</strong></li>
-  <li>Consumo de APIs , Hibernate , Docker , MySQL , Microservicios, Maven, GUI(Swing)</li>
+  <li>Git & GitHub, Consumo de APIs , Docker , Maven, GUI(Swing)</li>
   <li>Resolucion de problemas, Metodologías Ágiles(Jira,Trello...) , Habilidades Blandas</li>
 </ul>
 <!------------------------------------------------------------------------------------------------------>
