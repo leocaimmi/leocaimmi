@@ -1,6 +1,6 @@
 <h1 align="center"> Hi visitor👋</h1>
   
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Desarrollador+backend+👨‍💻👨‍💻;Que+gusto+verte+por+aqui+👋👋;Bienvenidos+👾👾;Argentina+pa´🇦🇷;!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Desarrollador+frontend+👨‍💻;Desarrollador+backend+👨‍💻👨‍💻;Desarrollador+fullstack+👨‍💻👨‍💻👨‍💻;Que+gusto+verte+por+aqui+👋👋;Bienvenidos+👾👾;Argentina+pa´🇦🇷;!)
  </h1> 
 
 ## 👽Visitantes
@@ -14,7 +14,7 @@
 ## 📚Educación
 <ul>
   <li>🔭  Actualemte me encuentro cursando el 4to y ultimo Cuatrimestre en Tecnicatura en Programación- UTN</li>
-  <li>👨‍💻 JavaScript, TypeScript, Angular,HTML, CSS.
+  <li>👨‍💻 JavaScript, TypeScript, Angular,HTML, CSS, MySQL.
   <li>🌱 Java (POO, UML, Herencia, Polimorfismo, Encapsulamiento, Abstracción, Modularización, Clases Abstractas, Interfaces, Colecciones, Genericidad, Excepciones, Archivos, JSON)</li>
   <li>📖 C (Programación Estructurada, Arreglos, Punteros, Estructuras Dinámicas, Listas, Árboles, Filas)</li>
   <li>HTML, CSS, GIT</strong></li>
