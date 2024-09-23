@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,angular,c,java,html,css,git,mysql,postgresql,docker" />
+    <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,javascript,typescript,angular,html,css,git,postman" />
   </a>
 </p>
 <!------------------------------------------------------------------------------------------------------>
