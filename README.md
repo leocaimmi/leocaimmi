@@ -1,45 +1,42 @@
-<h1 align="center"> Hi visitor👋</h1>
+<h1 align="center" style="animation: slideIn 2s;">Hi Visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
   
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Desarrollador+frontend+👨‍💻;Desarrollador+backend+👨‍💻👨‍💻;Desarrollador+fullstack+👨‍💻👨‍💻👨‍💻;Que+gusto+verte+por+aqui+👋👋;Bienvenidos+👾👾;Argentina+pa´🇦🇷;!)
- </h1> 
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=47CAFF&center=true&vCenter=true&random=false&width=750&lines=Gusto+en+verte!;Backend+developer;Argentina!;Gracias+por+visitarme" alt="Typing SVG" /></a>
+</p>
 
 ## 👽Visitantes
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/leocaimmi/count.svg" /></p> 
 
-## Conectar 
-<a href="https://www.linkedin.com/in/leonardo-caimmi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<!------------------------------------------------------------------------------------------------------>
+###
+
+<h2 align="left">👩‍💻 Sobre mi </h2>
+
+###
 
 
-## 📚Educación
-<ul>
-  <li>🔭  Actualemte me encuentro cursando el 4to y ultimo Cuatrimestre en Tecnicatura en Programación- UTN</li>
-  <li>👨‍💻 JavaScript, TypeScript, Angular,HTML, CSS, MySQL.
-  <li>🌱 Java (POO, UML, Herencia, Polimorfismo, Encapsulamiento, Abstracción, Modularización, Clases Abstractas, Interfaces, Colecciones, Genericidad, Excepciones, Archivos, JSON)</li>
-  <li>📖 C (Programación Estructurada, Arreglos, Punteros, Estructuras Dinámicas, Listas, Árboles, Filas)</li>
-  <li>Git & GitHub, Consumo de APIs , Docker , Maven, GUI(Swing)</li>
-  <li>Resolucion de problemas, Metodologías Ágiles(Jira,Trello...) , Habilidades Blandas</li>
-</ul>
-<!------------------------------------------------------------------------------------------------------>
-
-## 🎮Intereses
-<ul>
-  <li>Entrenamiento físico y mental</li>
-  <li>Mundo IT</li>
-  <li>Videojuegos</li>
-</ul>
-<!------------------------------------------------------------------------------------------------------>
+  <img align="right" src="https://github.com/user-attachments/assets/6c6a9384-100d-4ba7-9e54-92338e1ea26e" height="250">
+  <p align="left"><br>📚 Backend developer Jr.<br><br><br>
+  🍀 Me gusta entrenar y llevar una vida saludable.<br><br><br>
+  📚 Tecnico universitario en Programacion. <br><br><br>
+  </p>
+  
+###
  
-## 🛠️Lenguajes y herramientas
-
+<h2 align="left">🛠️Lenguajes y herramientas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,javascript,typescript,angular,html,css,git,postman" />
   </a>
 </p>
-<!------------------------------------------------------------------------------------------------------>
 
-## 📈Estadisticas
+###
+
+<h2 align="left">🌐Conectar</h2>
+<a href="https://www.linkedin.com/in/leonardo-caimmi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+
+### 
+
+<h2 align="left">📈Estadisticas</h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leocaimmi&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
