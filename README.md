@@ -25,7 +25,7 @@
 <h2 align="left">🛠️Lenguajes y herramientas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,python,mysql,javascript,typescript,angular,html,css,git,postman" />
+    <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,python,mysql,javascript,typescript,angular,html,css,git,postman" />
   </a>
 </p>
 
