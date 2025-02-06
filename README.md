@@ -1,7 +1,7 @@
 <h1 align="center" style="animation: slideIn 2s;">Hi Visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
   
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=47CAFF&center=true&vCenter=true&random=false&width=750&lines=Gusto+en+verte!;Backend+developer;Argentina!;Gracias+por+visitarme" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=47CAFF&center=true&vCenter=true&random=false&width=750&lines=Gusto+en+verte!;fullStack+developer;Argentina!;Gracias+por+visitarme" alt="Typing SVG" /></a>
 </p>
 
 ## 👽Visitantes
@@ -15,7 +15,7 @@
 
 
   <img align="right" src="https://github.com/user-attachments/assets/6c6a9384-100d-4ba7-9e54-92338e1ea26e" height="250">
-  <p align="left"><br>📚 FullStack developer Jr.<br><br><br>
+  <p align="left"><br>📚 FullStack developer <br><br><br>
   🍀 Me gusta entrenar y llevar una vida saludable.<br><br><br>
   📚 Tecnico universitario en Programacion. <br><br><br><br>
   </p>
