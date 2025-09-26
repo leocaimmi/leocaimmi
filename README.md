@@ -4,9 +4,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=47CAFF&center=true&vCenter=true&random=false&width=750&lines=Gusto+en+verte!;backend+developer;Argentina!;Gracias+por+visitarme" alt="Typing SVG" /></a>
 </p>
 
-## 👽Visitantes
-<p align="left"><img align="center" src="https://profile-counter.glitch.me/leocaimmi/count.svg" /></p> 
-
 ###
 
 <h2 align="left">👩‍💻 Sobre mi </h2>
@@ -25,7 +22,7 @@
 <h2 align="left">🛠️Lenguajes y herramientas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,python,mysql,javascript,typescript,angular,html,css,git,postman" />
+    <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,python,mysql,postgresql,sqlite,javascript,typescript,angular,html,css,git,postman" />
   </a>
 </p>
 
