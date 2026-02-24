@@ -12,7 +12,7 @@
 
 
   <img align="right" src="https://github.com/user-attachments/assets/6c6a9384-100d-4ba7-9e54-92338e1ea26e" height="250">
-  <p align="left"><br>📚 Backend developer <br><br><br>
+  <p align="left"><br>📚 Full Stack Developer <br><br><br>
   🍀 Me gusta entrenar y llevar una vida saludable.<br><br><br>
   📚 Tecnico universitario en Programacion. <br><br><br><br>
   </p>
